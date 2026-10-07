@@ -2,7 +2,7 @@
 ## Lo que debes saber si no te decides entre una u otra  
 
 **Bachillerato** es una etapa donde mucha gente suele decir que es algo sumamente importante o algo *imprescindible* para el ámbito laboral.
-![Emoji con ojos rodados](https://thumbs.dreamstime.com/b/ojos-rodados-cara-expresi%C3%B3n-personaje-emoji-plano-icono-rodante-car%C3%A1cter-carga-vectorial-250250517.jpg)
+![Emoji con ojos rodados](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7l2DA-nup3qlT_P_dC1TPPw186eGMavgUbmn2Q6rDHleZBinLfQpnGk&s=10)
 
 Esto... es ~~cierto~~? Para nada, a mucha gente le estuvieron martillando con el tema de bachillerato porque algo nuevo como la FP no lo ven como algo tan importante. 
 
