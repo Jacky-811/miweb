@@ -19,13 +19,13 @@ hacer si quieres empezar a estudiar directamente:
 
 2. [Bachillerato](https://www.edu.xunta.gal/centros/iescastelaovigo/)
 
-  [ ] Emborracharme un finde antes de un examen
+ - [ ] Emborracharme un finde antes de un examen
   
-  [x] Estudiar una media de 30-40 minutos diarios para llevar las cosas al día
+ - [x] Estudiar una media de 30-40 minutos diarios para llevar las cosas al día
   
-  [ ] Estudiar durante 8 horas al día para aprender lo máximo posible
+ - [ ] Estudiar durante 8 horas al día para aprender lo máximo posible
   
-  [x] Seguir teniendo tiempo de ocio aun estando en época de estudios
+ - [x] Seguir teniendo tiempo de ocio aun estando en época de estudios
 
   Actualmente, la FP está cogiendo mucha fuerza debido a su capacidad de enseñar muchas cosas en un periodo corto de tiempo comparado con algunas universidades.
   Además de eso, te enseña varias cosas aparte que no te enseña bachillerato como por ejemplo:
