@@ -8,6 +8,8 @@ Esto... es ~~cierto~~? Para nada, a mucha gente le estuvieron martillando con el
 
 No obstante, la verdad es que cuando se está eligiendo entre una u otra normalmente es porque se quiere entrar al mundo laboral dentro de poco y se necesita una formación.
 Pero mayormente no se sabe cual de las dos cosas te da más aprendizaje sobre lo que se quiere estudiar.
+
+
 ![Persona con una montaña de libros](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbaw1iRbkZRwG4x2L_MGEZKuOoko6MRL-xaZcDr25CZw&s=10)
 
 Primero que nada, aquí hay 2 enlaces para centros muy buenos a los que se puede ir a estudiar y cosas que no debes y que si debes 
@@ -18,8 +20,11 @@ hacer si quieres empezar a estudiar directamente:
 2. [Bachillerato](https://www.edu.xunta.gal/centros/iescastelaovigo/)
 
   [ ] Emborracharme un finde antes de un examen
+  
   [x] Estudiar una media de 30-40 minutos diarios para llevar las cosas al día
+  
   [ ] Estudiar durante 8 horas al día para aprender lo máximo posible
+  
   [x] Seguir teniendo tiempo de ocio aun estando en época de estudios
 
   Actualmente, la FP está cogiendo mucha fuerza debido a su capacidad de enseñar muchas cosas en un periodo corto de tiempo comparado con algunas universidades.
